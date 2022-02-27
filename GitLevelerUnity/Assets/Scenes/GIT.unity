@@ -138,7 +138,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &110644623
 Light:
@@ -152,8 +152,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.97288734, b: 0.2971698, a: 1}
-  m_Intensity: 10.4
-  m_Range: 3.07
+  m_Intensity: 83
+  m_Range: 7.5
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -209,9 +209,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 110644622}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 53.51, y: 1.56, z: -148.16}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 53.532, y: 4.248, z: -148.16}
+  m_LocalScale: {x: 2, y: 2, z: 1.9089}
   m_Children: []
   m_Father: {fileID: 631935700}
   m_RootOrder: 8
@@ -231,7 +231,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &382054880
 Light:
@@ -555,7 +555,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &769480447
 Light:
@@ -569,7 +569,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.6603774, g: 0.55010134, b: 0.19001423, a: 1}
-  m_Intensity: 0.23
+  m_Intensity: 0.6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -626,13 +626,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 769480446}
-  m_LocalRotation: {x: 0.041598193, y: -0.43002886, z: 0.9018176, w: 0.008351474}
-  m_LocalPosition: {x: 69.31, y: 16.19, z: -141.68}
+  m_LocalRotation: {x: -0.0064589656, y: -0.9823253, z: 0.18024658, w: 0.05006403}
+  m_LocalPosition: {x: 69.31, y: 16.19, z: -123.49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 631935700}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 129.076, y: -173.821, z: 1.8829956}
+  m_LocalEulerAnglesHint: {x: 20.7, y: -173.821, z: 1.8829956}
 --- !u!1 &1086355244
 GameObject:
   m_ObjectHideFlags: 0
@@ -744,7 +744,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &1300166220
 Light:
